@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderRajat123
+- 👋 Hi, I’m Rajat Das
 - 👀 I’m interested in Software Developer and Machine Learning 
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on TCS and Google 
