@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Rajat Das
-- 👀 I’m interested in Software Developer and Machine Learning 
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on TCS and Google 
-- 📫 How to reach me - Through this profile 
+- 👀 I’m a full stack developer with expertise in Android development
+- 🤖 Done projects in two live projects related to e-learning application 
 
 <!---
 CoderRajat123/CoderRajat123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
